@@ -44,11 +44,11 @@ it.
 ## Testing
 
 ### Unit Test
-You can run the unit test by:
+You can run the unit test by:</br>
 `flutter test test/fetch_photos_test.dart`
 
 ### Widget Test
-You can run the widget test by:
+You can run the widget test by:</br>
 `flutter test test/widget_test.dart`
 
 ## License
